@@ -40,3 +40,9 @@ import plotly.express as px
 ## 💡 Uso básico
 
 - Ingresar al google colab predispuesto en el archivo AluraStoreLatam.ipynb y ejecutar todas las celdas.
+
+👤 Autor
+
+Nicolás
+@nxzK1 – nvs.contacto@gmail.com 
+Linkedin – https://www.linkedin.com/in/nvaldes00/
